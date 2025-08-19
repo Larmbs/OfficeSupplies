@@ -24,17 +24,53 @@
       "description": "20 x 10 paper, hardcover",
       "tags": ["Notebook"],
       "price": 4.0
+    },
+    "item4": {
+      "name": "Pifflot Pen",
+      "description": "refillable",
+      "tags": ["Pen"],
+      "price": 1.25
+    },
+    "item5": {
+      "name": "Ballff Point Pen",
+      "description": "blue, green",
+      "tags": ["Pen"],
+      "price": 1.0
+    },
+    "item6": {
+      "name": "Notebookff 1",
+      "description": "20 x 10 paper, hardcover",
+      "tags": ["Notebook"],
+      "price": 4.0
+    },
+    "item7": {
+      "name": "ffPilot Pen",
+      "description": "refillable",
+      "tags": ["Pen"],
+      "price": 1.25
+    },
+    "item8": {
+      "name": "Ball ffPoint Pen",
+      "description": "blue, green",
+      "tags": ["Pen"],
+      "price": 1.0
+    },
+    "item9": {
+      "name": "fff 1",
+      "description": "20 x 10 paper, hardcover",
+      "tags": ["Notebook"],
+      "price": 4.0
     }
   },
   "style": {
-    "backgroundColor": "#f0f0f0",
-    "textColor": "#333333",
-    "headingColor": "#1a73e8",
-    "fontFamily": "Arial, sans-serif",
-    "linkColor": "#1a73e8",
-    "buttonBackground": "#1a73e8",
+    "backgroundColor": "#ffffff",
+    "textColor": "#2c3e50",
+    "headingColor": "#0d47a1",
+    "fontFamily": "Segoe UI, Arial, sans-serif",
+    "linkColor": "#1565c0",
+    "buttonBackground": "#1976d2",
     "buttonTextColor": "#ffffff",
-    "borderColor": "#ccc",
-    "spacing": "10px"
+    "borderColor": "#e0e0e0",
+    "spacing": "12px"
   }
 }
