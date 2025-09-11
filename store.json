@@ -8,155 +8,17 @@
   },
   "items": {
     "item1": {
-      "name": "Pilot Pen",
-      "description": "Refillable black ink pen",
-      "tags": ["Pen"],
-      "price": 1.25
+      "name": "Pilot Super Grip 0.5",
+      "description": "Pilot mechanical pencil 0.5mm lead",
+      "tags": ["Mechanical Pencil"],
+      "price": 3
     },
     "item2": {
-      "name": "Ballpoint Pen Set",
-      "description": "Set of 3 pens, blue, black, red",
-      "tags": ["Pen"],
-      "price": 3.5
+      "name": "Lead 0.5mm",
+      "description": "0.5mm lead for mechanical pencils",
+      "tags": ["Lead"],
+      "price": 1
     },
-    "item3": {
-      "name": "Notebook A5",
-      "description": "Hardcover, 80 pages",
-      "tags": ["Notebook"],
-      "price": 4.0
-    },
-    "item4": {
-      "name": "Notebook A4",
-      "description": "Spiral-bound, 120 pages",
-      "tags": ["Notebook"],
-      "price": 5.5
-    },
-    "item5": {
-      "name": "Highlighter Pack",
-      "description": "Set of 6 neon colors",
-      "tags": ["Marker"],
-      "price": 6.0
-    },
-    "item6": {
-      "name": "Sticky Notes",
-      "description": "Pack of 12, assorted colors",
-      "tags": ["Note"],
-      "price": 3.0
-    },
-    "item7": {
-      "name": "Stapler",
-      "description": "Standard office stapler with staples",
-      "tags": ["Stationery"],
-      "price": 7.5
-    },
-    "item8": {
-      "name": "Paper Clips",
-      "description": "Box of 100 metal clips",
-      "tags": ["Stationery"],
-      "price": 2.0
-    },
-    "item9": {
-      "name": "Binder Clips",
-      "description": "Pack of 12 assorted sizes",
-      "tags": ["Stationery"],
-      "price": 4.0
-    },
-    "item10": {
-      "name": "Scissors",
-      "description": "8-inch stainless steel scissors",
-      "tags": ["Tool"],
-      "price": 5.0
-    },
-    "item11": {
-      "name": "Tape Dispenser",
-      "description": "Desktop dispenser with 2 rolls",
-      "tags": ["Tool"],
-      "price": 6.5
-    },
-    "item12": {
-      "name": "Whiteboard Marker Set",
-      "description": "Set of 4 colors, dry erase",
-      "tags": ["Marker"],
-      "price": 7.0
-    },
-    "item13": {
-      "name": "Eraser Set",
-      "description": "Pack of 5 soft erasers",
-      "tags": ["Stationery"],
-      "price": 2.5
-    },
-    "item14": {
-      "name": "Mechanical Pencil",
-      "description": "0.7mm lead, refillable",
-      "tags": ["Pen"],
-      "price": 3.0
-    },
-    "item15": {
-      "name": "Desk Organizer",
-      "description": "Multi-compartment, plastic",
-      "tags": ["Desk"],
-      "price": 12.0
-    },
-    "item16": {
-      "name": "File Folder Set",
-      "description": "10 folders, assorted colors",
-      "tags": ["Paper"],
-      "price": 5.0
-    },
-    "item17": {
-      "name": "Printer Paper",
-      "description": "500 sheets, A4 size",
-      "tags": ["Paper"],
-      "price": 8.0
-    },
-    "item18": {
-      "name": "Envelope Pack",
-      "description": "Pack of 50 standard envelopes",
-      "tags": ["Paper"],
-      "price": 6.0
-    },
-    "item19": {
-      "name": "Desk Calendar 2025",
-      "description": "Monthly desktop calendar",
-      "tags": ["Desk"],
-      "price": 7.0
-    },
-    "item20": {
-      "name": "Ruler",
-      "description": "12-inch clear plastic ruler",
-      "tags": ["Tool"],
-      "price": 1.5
-    },
-    "item21": {
-      "name": "Glue Stick",
-      "description": "2-pack, non-toxic",
-      "tags": ["Stationery"],
-      "price": 2.5
-    },
-    "item22": {
-      "name": "Index Tabs",
-      "description": "Pack of 100 adhesive tabs",
-      "tags": ["Paper"],
-      "price": 4.0
-    },
-    "item23": {
-      "name": "Correction Tape",
-      "description": "Whiteout tape, 5mm x 6m",
-      "tags": ["Stationery"],
-      "price": 3.0
-    },
-    "item24": {
-      "name": "Push Pins",
-      "description": "Box of 100 assorted colors",
-      "tags": ["Stationery"],
-      "price": 3.5
-    },
-    "item25": {
-      "name": "Desk Lamp",
-      "description": "LED adjustable desk lamp",
-      "tags": ["Desk"],
-      "price": 18.0
-    }
   },
   "style": {
     "backgroundColor": "#ffffff",
