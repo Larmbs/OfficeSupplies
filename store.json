@@ -1,34 +1,32 @@
 {
-  "name": "Office Supplies",
-  "company": "Liam Israel",
+  "name": "Wave Machines",
+  "company": "John Smith Co",
   "payment": {
-    "paypal": "LiamI462",
-    "venmo": "liamisrael06",
-    "zelle": "liamisrael200@gmail.com"
+    "paypal": "JohhhnSmiith",
+    "venmo": "JohhhnSmiith",
+    "zelle": "john.smith@gmail.com"
   },
   "items": {
     "item1": {
-      "name": "Pilot Super Grip 0.5",
-      "description": "Pilot mechanical pencil 0.5mm lead",
-      "tags": ["Mechanical Pencil"],
-      "price": 3
+      "name": "Basic wave machine",
+      "description": "100 feet wide, 5 ft waves",
+      "price": 10000.00
     },
     "item2": {
-      "name": "Lead 0.5mm",
-      "description": "0.5mm lead for mechanical pencils",
-      "tags": ["Lead"],
-      "price": 1
-    },
+      "name": "Large wave machine",
+      "description": "250 feet wide, 10 ft waves",
+      "price": 500000.00
+    }
   },
   "style": {
-    "backgroundColor": "#ffffff",
-    "textColor": "#2c3e50",
-    "headingColor": "#0d47a1",
-    "fontFamily": "Segoe UI, Arial, sans-serif",
-    "linkColor": "#1565c0",
-    "buttonBackground": "#1976d2",
+    "backgroundColor": "#f0f0f0",
+    "textColor": "#333333",
+    "headingColor": "#1a73e8",
+    "fontFamily": "Arial, sans-serif",
+    "linkColor": "#1a73e8",
+    "buttonBackground": "#1a73e8",
     "buttonTextColor": "#ffffff",
-    "borderColor": "#e0e0e0",
-    "spacing": "12px"
+    "borderColor": "#ccc",
+    "spacing": "10px"
   }
 }
