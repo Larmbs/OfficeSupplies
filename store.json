@@ -1,21 +1,21 @@
 {
-  "name": "Wave Machines",
-  "company": "John Smith Co",
+  "name": "Office Supplies",
+  "company": "Netiv Stationary",
   "payment": {
-    "paypal": "JohhhnSmiith",
-    "venmo": "JohhhnSmiith",
-    "zelle": "john.smith@gmail.com"
+    "paypal": "LiamI462",
+    "venmo": "liamisrael06",
+    "zelle": "liamisrael200@gmail.com"
   },
   "items": {
     "item1": {
-      "name": "Basic wave machine",
-      "description": "100 feet wide, 5 ft waves",
-      "price": 10000.00
+      "name": "Pilot Super Grip 0.5",
+      "description": "Mechanical pencil with 0.5mm lead",
+      "price": 3.0
     },
     "item2": {
-      "name": "Large wave machine",
-      "description": "250 feet wide, 10 ft waves",
-      "price": 500000.00
+      "name": "0.5mm lead",
+      "description": "Some mechanical pencil lead",
+      "price": 1.0
     }
   },
   "style": {
